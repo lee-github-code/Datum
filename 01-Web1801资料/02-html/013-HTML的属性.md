@@ -13,6 +13,6 @@
 
 ###3.属性的分类
 > * 全局属性,所有的HTML标签都具备的属性，常见的有
->> class, id, style, title,contenteditable   
+>> class, id, style, title,contenteditable (内容可编辑属性-->所有标签)  
 > * 局部属性,某个HTML标签自己所具备的属性,局部属性主要是根据标签的作用而不同，比如a标签的href属性
 > * 事件属性,浏览器中触发动作的能力，比如当用户点击元素时执行javascript代码
